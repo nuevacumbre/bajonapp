@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 1400,
+    "id": 1,
+    "title": "Completo",
+    "thumbnailUrl": "https://picsum.photos/id/0/600"
+  },
+  {
+    "precio": 2600,
+    "id": 2,
+    "title": "Churrasco Italiano",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "precio": 2700,
+    "id": 3,
+    "title": "Churrasco Barros Luco",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+  },
+  {
+    "precio": 2800,
+    "id": 4,
+    "title": "Churrasco Chacarero",
+    "thumbnailUrl": "https://picsum.photos/id/30/600"
+  },
+  {
+    "precio": 3200,
+    "id": 5,
+    "title": "Hamburguesa BajonAPP",
+    "thumbnailUrl": "https://picsum.photos/id/40/600"
+  },
+  {
+    "precio": 3600,
+    "id": 6,
+    "title": "Mechada Clasica",
+    "thumbnailUrl": "https://picsum.photos/id/50/600"
+  }
+]
